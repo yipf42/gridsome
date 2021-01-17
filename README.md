@@ -1,1 +1,1 @@
-## https://yipf42.github.io/gridsome
+## https://yipf42.github.io/gridsome/
