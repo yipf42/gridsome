@@ -1,0 +1,32 @@
+{
+  "name": "gridsome",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "@gridsome/remark-prismjs": "0.5.0",
+    "@gridsome/source-filesystem": "^0.6.2",
+    "@gridsome/transformer-remark": "^0.6.4",
+    "gridsome": "^0.7.23"
+  },
+  "description": "gridsome",
+  "version": "1.0.0",
+  "main": "gridsome.config.js",
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yipf42/gridsome.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yipf42/gridsome/issues"
+  },
+  "homepage": "https://github.com/yipf42/gridsome#readme"
+}
